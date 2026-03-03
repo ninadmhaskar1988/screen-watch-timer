@@ -24,6 +24,17 @@ Install the latest stable version directly from the store:
 ## 📸 Screenshots
 <img width="1558" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/91af6d09-64ed-4877-b7c9-84b4b0d2ce73" />
 
+
+## 🤝 Contributing & Suggestions
+
+I love new ideas! Whether you are a developer or a user, here is how you can help:
+
+* **Got an idea?** Head over to the [Discussions](link-to-your-discussions-tab) tab and share it!
+* **Found a bug?** Open an [Issue](link-to-your-issues-tab).
+* **Want to code?** Check out the issues labeled `help wanted`. 
+* **Feedback:** Just want to say thanks? Star the repo! ⭐
+
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for our full development guidelines.
 ## 🛠️ Tech Stack
 * **Manifest V3**
 * **WebExtensions API** (Storage, Tabs)
