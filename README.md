@@ -23,6 +23,7 @@ Install the latest stable version directly from the store:
 
 ## 📸 Screenshots
 <img width="1558" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/91af6d09-64ed-4877-b7c9-84b4b0d2ce73" />
+<img width="1376" height="768" alt="screenshot_2" src="https://github.com/user-attachments/assets/c4836646-99ef-445f-b3a7-9665278c8b5e" />
 
 
 ## 🤝 Contributing & Suggestions
