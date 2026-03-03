@@ -21,6 +21,9 @@ Install the latest stable version directly from the store:
 * **Smart Session Reset**: Timer resets automatically when the browser restarts.
 * **Privacy Focused**: No data collection; all tracking stays local.
 
+## 📸 Screenshots
+<img width="1558" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/91af6d09-64ed-4877-b7c9-84b4b0d2ce73" />
+
 ## 🛠️ Tech Stack
 * **Manifest V3**
 * **WebExtensions API** (Storage, Tabs)
