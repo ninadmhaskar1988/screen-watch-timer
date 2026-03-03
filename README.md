@@ -11,7 +11,7 @@ Install the latest stable version directly from the store:
 👉 **[Download on Firefox Add-on Market](https://addons.mozilla.org/firefox/addon/screen-watch-timer/)**
 
 ### Developer Mode
-1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/screen-watch-timer.git`
+1. Clone this repo: `git clone https://github.com/ninadmhaskar1988/screen-watch-timer.git`
 2. Open Firefox and go to `about:debugging#/runtime/this-firefox`.
 3. Click **Load Temporary Add-on...** and select `manifest.json`.
 
