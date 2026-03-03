@@ -35,6 +35,17 @@ I love new ideas! Whether you are a developer or a user, here is how you can hel
 * **Feedback:** Just want to say thanks? Star the repo! ⭐
 
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for our full development guidelines.
+
+---
+
+## 💡 The Story Behind This Project
+This extension was built with **0% prior coding experience** and **100% collaboration with AI**. 
+
+I wanted to prove that with the right tools and persistence, anyone can turn an idea into a functional product. Every line of JavaScript, every CSS animation for the "pill" UI, and the Manifest V3 logic was developed through iterative learning and AI guidance.
+
+If you are a beginner looking at this code: **Don't be afraid to start!** 🚀
+
+
 ## 🛠️ Tech Stack
 * **Manifest V3**
 * **WebExtensions API** (Storage, Tabs)
