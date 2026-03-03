@@ -30,7 +30,7 @@ Install the latest stable version directly from the store:
 I love new ideas! Whether you are a developer or a user, here is how you can help:
 
 * **Got an idea?** Head over to the [Discussions](https://github.com/ninadmhaskar1988/screen-watch-timer/discussions) tab and share it!
-* **Found a bug?** Open an [Issue](https://github.com/ninadmhaskar1988/screen-watch-timer/issues)).
+* **Found a bug?** Open an [Issue](https://github.com/ninadmhaskar1988/screen-watch-timer/issues).
 * **Want to code?** Check out the issues labeled `help wanted`. 
 * **Feedback:** Just want to say thanks? Star the repo! ⭐
 
