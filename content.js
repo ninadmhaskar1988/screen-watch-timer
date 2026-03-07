@@ -88,7 +88,7 @@
         sessionSeconds++;
         
         // REPEATING ALERT: Triggers every 600 seconds (10 minutes)
-        if (sessionSeconds % 10 === 0 && sessionSeconds !== 0) {
+        if (sessionSeconds % 600 === 0 && sessionSeconds !== 0) {
             showModernAlert();
         }
 
