@@ -2,49 +2,20 @@
 <html>
 <head>
   <style>
-    :root {
-      --bg: #0f172a; --text: #ffffff; --label: #94a3b8;
-      --gradient-start: #fff; --gradient-end: #64748b;
-      --btn-bg: rgba(255, 255, 255, 0.1);
-    }
-    body.light {
-      --bg: #f8fafc; --text: #1e293b; --label: #64748b;
-      --gradient-start: #1e293b; --gradient-end: #64748b;
-      --btn-bg: rgba(0, 0, 0, 0.05);
-    }
-    body {
-      font-family: system-ui, -apple-system, sans-serif;
-      width: 250px; margin: 0; padding: 20px;
-      background: var(--bg); color: var(--text);
-      text-align: center; transition: background 0.3s;
-      overflow: hidden;
-    }
-    .controls { 
-      display: flex; justify-content: space-between; 
-      gap: 8px; margin-bottom: 20px; 
-    }
-    button {
-      flex: 1; background: var(--btn-bg); border: 1px solid var(--label);
-      color: var(--label); border-radius: 6px; font-size: 11px;
-      cursor: pointer; padding: 6px 4px; font-weight: 600;
-      transition: all 0.2s; white-space: nowrap;
-    }
-    button:hover { border-color: var(--text); color: var(--text); }
-    
-    .label { font-size: 10px; text-transform: uppercase; color: var(--label); letter-spacing: 1px; }
-    #total-time {
-      font-size: 2.5rem; font-weight: 800; margin: 10px 0;
-      background: linear-gradient(to bottom, var(--gradient-start), var(--gradient-end));
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-    }
+    :root { --bg: #0f172a; --text: #ffffff; --label: #94a3b8; --gradient-start: #fff; --gradient-end: #64748b; --btn-bg: rgba(255, 255, 255, 0.1); }
+    body.light { --bg: #f8fafc; --text: #1e293b; --label: #64748b; --gradient-start: #1e293b; --gradient-end: #64748b; --btn-bg: rgba(0, 0, 0, 0.05); }
+    body { font-family: system-ui, sans-serif; width: 250px; margin: 0; padding: 20px; background: var(--bg); color: var(--text); text-align: center; transition: background 0.3s; }
+    .controls { display: flex; justify-content: space-between; gap: 8px; margin-bottom: 20px; }
+    button { flex: 1; background: var(--btn-bg); border: 1px solid var(--label); color: var(--label); border-radius: 6px; font-size: 11px; cursor: pointer; padding: 6px 4px; font-weight: 600; }
+    #total-time { font-size: 2.5rem; font-weight: 800; margin: 10px 0; background: linear-gradient(to bottom, var(--gradient-start), var(--gradient-end)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
   </style>
 </head>
 <body>
   <div class="controls">
-    <button id="theme-toggle">Dark Mode</button>
-    <button id="reset-btn">Reset Time</button>
+    <button id="theme-toggle">Mode</button>
+    <button id="reset-btn">Reset</button>
   </div>
-  <div class="label">Current Session Screen Watch Time</div>
+  <div style="font-size: 10px; text-transform: uppercase; color: var(--label);">Total Screen Time</div>
   <div id="total-time">00:00:00</div>
   <script src="popup.js"></script>
 </body>
