@@ -25,6 +25,7 @@ Install the latest stable version directly from the store:
 <img width="1558" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/91af6d09-64ed-4877-b7c9-84b4b0d2ce73" />
 <img width="1376" height="768" alt="screenshot_2" src="https://github.com/user-attachments/assets/c4836646-99ef-445f-b3a7-9665278c8b5e" />
 <img width="1920" height="1080" alt="v1 1" src="https://github.com/user-attachments/assets/91aa292b-5aee-425e-8d3c-23d734422dbf" />
+<img width="373" height="235" alt="ss3" src="https://github.com/user-attachments/assets/a9883064-591f-4be3-9da0-420a3a2d4c4a" />
 
 
 ## 🤝 Contributing & Suggestions
@@ -52,4 +53,5 @@ If you are a beginner looking at this code: **Don't be afraid to start!** 🚀
 * **Manifest V3**
 * **WebExtensions API** (Storage, Tabs)
 * **CSS3** (Backdrop-filter blur, Scale animations)
+
 
